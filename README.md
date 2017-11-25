@@ -9,8 +9,6 @@
 ![预览截图](https://github.com/wwenj/dou-ban/raw/master/Screenshots/md5.png)
 ![预览截图](https://github.com/wwenj/dou-ban/raw/master/Screenshots/md6.png)
 ![预览截图](https://github.com/wwenj/dou-ban/raw/master/Screenshots/md7.png)
-![预览截图](https://github.com/wwenj/dou-ban/raw/master/Screenshots/md8.png)
-![预览截图](https://github.com/wwenj/dou-ban/raw/master/Screenshots/md9.png)
 
 
 

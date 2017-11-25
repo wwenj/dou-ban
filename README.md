@@ -1,52 +1,38 @@
 # 电商 豆瓣集市
 
-> [原网址 https://shiji.douban.com/](https://shiji.douban.com/)
+ [原网址 https://shiji.douban.com/](https://shiji.douban.com/)
+## 项目截图
 
-![预览截图](https://github.com/wwenj/dou-ban/raw/master/Screenshots/md8.png)
 ![预览截图](https://github.com/wwenj/dou-ban/raw/master/Screenshots/md1.png)
-![预览截图](https://github.com/wwenj/dou-ban/raw/master/Screenshots/md2.png)
-![预览截图](https://github.com/wwenj/dou-ban/raw/master/Screenshots/md3.png)
-![预览截图](https://github.com/wwenj/dou-ban/raw/master/Screenshots/md4.png)
-![预览截图](https://github.com/wwenj/dou-ban/raw/master/Screenshots/md5.png)
-![预览截图](https://github.com/wwenj/dou-ban/raw/master/Screenshots/md6.png)
-![预览截图](https://github.com/wwenj/dou-ban/raw/master/Screenshots/md7.png)
 
+## 技术栈
+### 前端
+  * **Sass** + **Es6**
+  * **Vue** + **Vue-cli** + **Vue-router** + **Vuex** + **Mint UI**
+### 后端
+* **PHP**
+## 功能实现
+* **首页:** 首页 购物车 分类 我的
+* **详情:** 商品详情 评价 讨论 购物车 购买
+* **分类**
+* **购物车:** 结算
+* **我的**
+## 使用步骤
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Build Setup
 
 ``` bash
-# install dependencies
+# 安装依赖
 npm install
 
-# serve with hot reload at localhost:8080
+# 运行打开 localhost:8080
 npm run dev
 
-# build for production with minification
+# 编译打包
 npm run build
 
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+作者 [[ wwenj ]](http://www.wwenj.com/) <br>
+2017 年 11月 25日

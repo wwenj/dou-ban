@@ -2,7 +2,7 @@
 
 > [原网址 https://shiji.douban.com/](https://shiji.douban.com/)
 
-[预览图](./static/img/md/md1.png)
+[预览截图](https://github.com/wwenj/dou-ban/raw/master/Screenshots/md1.png)
 
 
 

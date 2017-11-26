@@ -1,5 +1,5 @@
 <template>
-  <div id="app" @touchmove="touchMove">
+  <div id="app" @touchmove="touchMove" @scroll="touchMove">
     <div class="header-box" :class="goUpDown ? 'goup' : 'godown'">
       <div class="header-bg">
         <div class="header">

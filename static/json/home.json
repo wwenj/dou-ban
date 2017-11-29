@@ -1,0 +1,94 @@
+{
+  "error_code": "0",
+  "message": "success",
+  "data": {
+    "banner": [{
+        "id": 1,
+        "img": "../../../static/img/home/swiper1.jpg",
+        "url": "https://www.baidu.com/",
+        "type": "2"
+      },
+      {
+        "id": 2,
+        "img": "../../../static/img/home/swiper2.jpg",
+        "url": "https://www.baidu.com/",
+        "type": "2"
+      },
+      {
+        "id": 3,
+        "img": "../../../static/img/home/swiper3.jpg",
+        "url": "",
+        "type": "1"
+      },
+      {
+        "id": 4,
+        "img": "../../../static/img/home/swiper4.jpg",
+        "url": "",
+        "type": "1"
+      }
+    ],
+    "goods": [{
+        "id": 11,
+        "name": "赫丽珠宝 Splendour 珍珠耳钉 日本Akoya海水珍珠 18k 白色",
+        "img": "../../static/img/jsonImg/good1.png",
+        "price": "206",
+        "market_price": "412"
+      },
+      {
+        "id": 12,
+        "name": "赫丽珠宝 Splendour 珍珠耳钉 日本Akoya海水珍珠 18k 白色",
+        "img": "../../static/img/jsonImg/good1.png",
+        "price": "206",
+        "market_price": "412"
+      },
+      {
+        "id": 11,
+        "name": "赫丽珠宝 Splendour 珍珠耳钉 日本Akoya海水珍珠 18k 白色",
+        "img": "../../static/img/jsonImg/good1.png",
+        "price": "206",
+        "market_price": "412"
+      },
+      {
+        "id": 12,
+        "name": "赫丽珠宝 Splendour 珍珠耳钉 日本Akoya海水珍珠 18k 白色",
+        "img": "../../static/img/jsonImg/good1.png",
+        "price": "206",
+        "market_price": "412"
+      },
+      {
+        "id": 11,
+        "name": "赫丽珠宝 Splendour 珍珠耳钉 日本Akoya海水珍珠 18k 白色",
+        "img": "../../static/img/jsonImg/good1.png",
+        "price": "206",
+        "market_price": "412"
+      },
+      {
+        "id": 12,
+        "name": "赫丽珠宝 Splendour 珍珠耳钉 日本Akoya海水珍珠 18k 白色",
+        "img": "../../static/img/jsonImg/good1.png",
+        "price": "206",
+        "market_price": "412"
+      },
+      {
+        "id": 11,
+        "name": "赫丽珠宝 Splendour 珍珠耳钉 日本Akoya海水珍珠 18k 白色",
+        "img": "../../static/img/jsonImg/good1.png",
+        "price": "206",
+        "market_price": "412"
+      },
+      {
+        "id": 12,
+        "name": "赫丽珠宝 Splendour 珍珠耳钉 日本Akoya海水珍珠 18k 白色",
+        "img": "../../static/img/jsonImg/good1.png",
+        "price": "206",
+        "market_price": "412"
+      },
+      {
+        "id": 12,
+        "name": "赫丽珠宝 Splendour 珍珠耳钉 日本Akoya海水珍珠 18k 白色",
+        "img": "../../static/img/jsonImg/good1.png",
+        "price": "206",
+        "market_price": "412"
+      }]
+  }
+}

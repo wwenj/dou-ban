@@ -1,0 +1,27 @@
+{
+  "error_code": 0,
+  "message": "success",
+  "data": {
+    "goods": [{
+      "id": 1,
+      "name": "赫丽珠宝 Splendour 珍珠耳钉 日本Akoya海水珍珠 18k 白色",
+      "img": "",
+      "imgs": [{
+          "id": "",
+          "img": "../../static/img/jsonImg"
+        },
+        {
+          "id": "",
+          "img": "../../static/img/jsonImg"
+        },
+        {
+          "id": "",
+          "img": "../../static/img/jsonImg"
+        }
+      ],
+      "price": "206.00",
+      "market_price": "412.00",
+      "desc": "<p>插入内容</p>"
+    }]
+  }
+}

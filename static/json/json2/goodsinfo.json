@@ -1,0 +1,23 @@
+{
+  "error_code":0,
+  "message":"success",
+  "data":{
+      "goods":{
+          "id":"1",
+          "name":"阿迪达斯跑步211",
+          "price":"400.00",
+          "market_price":"900.00",
+          "imgs":[
+              {
+                  "id":"11",
+                  "img":"http://ebay.com/Public/goods/2017-11-25/5a1949168eaae.png"
+              },
+              {
+                  "id":"14",
+                  "img":"http://ebay.com/Public/goods/2017-11-26/5a1a6fd2920c0.png"
+              }
+          ],
+          "desc":"哈哈哈哈哈哈"
+      }
+  }
+}

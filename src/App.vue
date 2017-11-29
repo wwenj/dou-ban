@@ -1,5 +1,5 @@
 <template>
-  <div id="app" @touchmove="touchMove" @scroll="touchMove">
+  <div id="app" @touchmove="touchMove">
     <div class="header-box" :class="goUpDown ? 'goup' : 'godown'">
       <div class="header-bg">
         <div class="header">
@@ -23,21 +23,21 @@
 </template>
 
 <script>
-import $ from 'jquery'
+import $ from "jquery";
 export default {
   name: "app",
   data() {
     return {
-      changeColor:true,
-      goUpDown:false
+      changeColor: true,
+      goUpDown: false
     };
   },
   methods: {
     touchMove: function(e) {
-      if(document.documentElement.scrollTop>=100){
-        this.goUpDown=true
-      }else if(document.documentElement.scrollTop<=100){
-         this.goUpDown=false
+      if (document.documentElement.scrollTop >= 100) {
+        this.goUpDown = true;
+      } else if (document.documentElement.scrollTop <= 100) {
+        this.goUpDown = false;
       }
     }
   }
@@ -47,19 +47,19 @@ export default {
 <style lang="scss">
 @import "../static/css/pixel.scss";
 
-.header-box{
+.header-box {
   width: 100%;
   position: fixed;
   top: px(0);
   left: 0;
   z-index: 1000;
 }
-.goup{
-  transform: translate(0,px(-50));
+.goup {
+  transform: translate(0, px(-50));
   transition: all 0.5s;
 }
-.godown{
-  transform: translate(0,px(0));
+.godown {
+  transform: translate(0, px(0));
   transition: all 0.3s;
 }
 .header-bg {
@@ -89,7 +89,7 @@ export default {
 .nav {
   width: 100%;
   height: px(40);
-  background-color:#FFFFFF;
+  background-color: #ffffff;
 }
 .nav ul {
   width: 100%;
@@ -104,26 +104,26 @@ export default {
   text-align: center;
   font-size: px(16);
 }
-.bgColor{
+.bgColor {
   color: #0aa082;
 }
-.router-view{
+.router-view {
   margin-top: px(90);
   height: px(800);
 }
-.router-link{
+.router-link {
   color: #000;
   text-decoration: none;
 }
 /*router-link自动添加的类*/
-.router-link-active{
+.router-link-active {
   color: #0aa082;
 }
 /*路由进出动画*/
-.fade-enter{
+.fade-enter {
   opacity: 0;
 }
-.fade-enter-active{
-  transition: opacity .5s;
+.fade-enter-active {
+  transition: opacity 0.5s;
 }
 </style>

@@ -1,0 +1,28 @@
+{
+  "error_code":0,
+  "message":"success",
+  "data":{
+      "classify":[
+          {
+              "id":"1",
+              "name":"服装"
+          },
+          {
+              "id":"2",
+              "name":"鞋类"
+          },
+          {
+              "id":"6",
+              "name":"包袋"
+          },
+          {
+              "id":"8",
+              "name":"饮食"
+          },
+          {
+              "id":"9",
+              "name":" 家居"
+          }
+      ]
+  }
+}

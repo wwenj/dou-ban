@@ -1,20 +1,9 @@
 <template>
   <div>
-    <!-- <div class="swiper-container">
-      <div class="swiper-wrapper">
-        <div class="swiper-slide" v-for="item in banners">
-          <img src="../../../static/img/home/swiper1.jpg">
-          <img :src=item.img>
-        </div>
-      </div>
-      <div class="swiper-pagination"></div>
-    </div> -->
 <swiper :options="swiperOption" :not-next-tick="notNextTick" ref="mySwiper">
-    <!-- slides -->
     <swiper-slide v-for="item in banners">
       <img :src=item.img alt="">
     </swiper-slide>
-    <!-- Optional controls -->
     <div class="swiper-pagination"  slot="pagination"></div>
     <div class="swiper-button-prev" slot="button-prev"></div>
     <div class="swiper-button-next" slot="button-next"></div>

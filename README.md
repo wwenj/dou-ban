@@ -3,7 +3,7 @@
  [原网址 https://shiji.douban.com/](https://shiji.douban.com/)
 ## 项目截图
 
-![预览截图](https://github.com/wwenj/dou-ban/tree/dev/Screenshots/md1.jpg)
+![预览截图](https://github.com/wwenj/dou-ban/blob/dev/Screenshots/md1.jpg)
 ![预览截图](https://github.com/wwenj/dou-ban/tree/dev/Screenshots/md2.jpg)
 
 ## 技术栈

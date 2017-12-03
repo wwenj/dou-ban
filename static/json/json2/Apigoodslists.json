@@ -4,18 +4,18 @@
   "data":{
       "goods":[
           {
-              "id":"1",
+              "id":"10",
               "name":"阿迪达斯跑步211",
               "price":"400.00",
               "market_price":"900.00",
-              "img":"http://ebay.com/Public/goods/2017-11-25/5a1949168eaae.png"
+              "img": "../../static/img/jsonImg/good1.png"
           },
           {
               "id":"2",
               "name":"阿迪达斯跑步210",
               "price":"300.00",
               "market_price":"600.00",
-              "img":"http://ebay.com/Public/goods/2017-11-26/5a1a163a3af79.png"
+              "img": "../../static/img/jsonImg/good1.png"
           }
       ]
   }
